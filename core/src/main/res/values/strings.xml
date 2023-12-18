@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZraMovie Hub</string>
+    <string name="dummyTitle">Ruinedking</string>
+    <string name="dummyDate">23 August 2020</string>
+    <string name="dummyUserScore">75% Viewer Approval</string>
+    <string name="loremIpsum">Embark on a cinematic journey with ZraMovie Hub, where storytelling meets art. Immerse yourself in compelling narratives, captivating characters, and unforgettable moments. Your adventure begins here, as Lorem ipsum dolor sit amet, consectetur adipiscing elit…</string>
+    <string name="movies">Explore Films</string>
+    <string name="tvshows">Discover TV Shows</string>
+    <string name="popularity_d">Current Popularity: %s</string>
+    <string name="baseUrlImage">http://image.tmdb.org/t/p/w500%s</string>
+    <string name="popularity_detail">Popularity: %s, Votes: %s, Average Rating: %s</string>
+    <string name="shareTitle">Spread the Cinematic Joy!</string>
+    <string name="shareBody">Exploring movie insights on ZraMovie Hub. Download the app now and join the cinematic adventure!</string>
+    <string name="overview">Plot Summary</string>
+    <string name="popularity">Audience Appeal</string>
+    <string name="share">Share the Magic</string>
+    <string name="postertopbar">Poster Top Bar</string>
+    <string name="foregroundpostertopbar">Foreground Poster Top Bar</string>
+    <string name="backbutton">Back Button</string>
+    <string name="subPoster">Subtle Poster</string>
+    <string name="icon">Iconic</string>
+    <string name="poster">Artistic Poster</string>
+    <string name="favorite">Favorites</string>
+    <string name="dummyLanguage">English</string>
+    <string name="message_undo">Undo previous deletion?</string>
+    <string name="message_ok">OK</string>
+    <string name="title_favorite">Favorites Collection</string>
+</resources>
